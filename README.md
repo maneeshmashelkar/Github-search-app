@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Github-Search-App
+
+Github-Search-App build using react.js and firebase auth where you can search the github profile.
+
+### Try here: [DEMO](https://github-app-6019b.web.app/) .
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
