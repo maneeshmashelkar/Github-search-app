@@ -1,0 +1,3 @@
+/* eslint-disable import/no-anonymous-default-export */
+
+// Add Firebase config here....
